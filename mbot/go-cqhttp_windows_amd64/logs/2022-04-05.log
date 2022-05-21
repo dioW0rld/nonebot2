@@ -1,0 +1,8 @@
+[2022-04-05 21:20:50] [WARNING]: 警告: pprof 服务不支持鉴权, 请不要运行在公网. 
+[2022-04-05 21:20:50] [WARNING]: lambda 初始化失败: Post "http:///runtime/init/ready": http: no Host in request URL 
+[2022-04-05 21:20:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-04-05 21:20:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-04-05 21:21:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
+[2022-04-05 21:28:09] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:64559->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-04-05 21:28:10] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:64559->127.0.0.1:8080: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-04-05 21:28:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connectex: No connection could be made because the target machine actively refused it. 
